@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DayZero_HelloWorld {
+public class Day0_HelloWorld {
 
 
     public static void main(String[] args) {
