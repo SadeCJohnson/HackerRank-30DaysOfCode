@@ -42,7 +42,7 @@ class MyBook extends Book{
 
 
 
-public class Day13_AbstractClasses {
+class Day13_AbstractClasses {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
