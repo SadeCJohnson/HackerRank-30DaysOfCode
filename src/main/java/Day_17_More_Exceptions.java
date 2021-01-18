@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-//Write your code here
 class Calculator {
 
     int power(int n, int p) throws Exception {
