@@ -64,7 +64,7 @@ class Student extends Person { //this is really Inheritance.Student extends Inhe
 }
 
 
-public class Day12_Inheritance {
+class Day12_Inheritance {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String firstName = scan.next();
