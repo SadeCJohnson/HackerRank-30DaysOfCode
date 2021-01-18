@@ -1,4 +1,4 @@
-package Day15_LinkedList;
+package Day_15_LinkedList;
 
 import java.util.Scanner;
 

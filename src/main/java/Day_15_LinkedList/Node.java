@@ -1,4 +1,4 @@
-package Day15_LinkedList;
+package Day_15_LinkedList;
 
 public class Node {
     int data;
