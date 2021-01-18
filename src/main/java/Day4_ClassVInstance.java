@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//this class should really be called "Person" in place of "Day4_ClassVInstance"
+//this class should really be called "Inheritance.Person" in place of "Day4_ClassVInstance"
 public class Day4_ClassVInstance {
     private int age;
 
