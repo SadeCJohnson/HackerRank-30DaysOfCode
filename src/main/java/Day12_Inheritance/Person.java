@@ -1,4 +1,4 @@
-package Inheritance;
+package Day12_Inheritance;
 
 public class Person {
     int idNum;

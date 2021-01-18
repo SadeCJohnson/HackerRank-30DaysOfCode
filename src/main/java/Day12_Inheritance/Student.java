@@ -1,4 +1,4 @@
-package Inheritance;
+package Day12_Inheritance;
 
 public class Student extends Person { //this is really Inheritance.Student extends Inheritance.Person
 
