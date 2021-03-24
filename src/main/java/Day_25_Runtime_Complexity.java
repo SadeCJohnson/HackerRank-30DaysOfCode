@@ -16,7 +16,6 @@ public class Day_25_Runtime_Complexity {
     }
 
     public static void main(String[] args) {
-        //create scanner that takes the number of test cases
         Scanner input = new Scanner(System.in);
         int T = input.nextInt();
         int numVal;
