@@ -9,9 +9,6 @@ public class Day_25_Runtime_Complexity {
         for (int i = 1; i <= numInput; i++) {
             if (numInput % i == 0) {
                 list.add(i);
-                if (list.size() > 3) {
-                    break;
-                }
             }
         }
         String finalVal = list.size() == 2 ? "Prime" : "Not prime";
