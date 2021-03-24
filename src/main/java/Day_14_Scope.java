@@ -23,7 +23,7 @@ class ComputeDifference {
     }
 } // End of Difference class
 
-public class Day14_Scope {
+public class Day_14_Scope {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
